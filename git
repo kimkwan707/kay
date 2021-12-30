@@ -6,3 +6,7 @@
 % git config --global user.email "kimkwan1@gmail.com"
 % git remote add origin https://github.com/kimkwan707/kay.git
 % git pull origin master
+	-- personal access token 생성 필요 (유효기간 30일)
+
+index.html 존재 -> http://kimkwan707.github.io/kay web-hosting
+
